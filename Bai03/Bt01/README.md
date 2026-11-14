@@ -5,6 +5,7 @@ BÀI 01: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
 Chạy chương trình:
 
 bash
+
 cd bai03/Bt01
 
 node bai01.js
