@@ -2,15 +2,10 @@ BÀI 01: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
 
 1. Các lệnh thực hiện
 
-Kiểm tra phiên bản Node.js:
-
-bash
-node -v
-
-
 Chạy chương trình:
 
 bash
+cd bai03/Bt01
 node bai01.js
 
 2. Ảnh thực hiện bài tập
