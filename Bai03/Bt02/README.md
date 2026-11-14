@@ -2,11 +2,15 @@ Bài 2. Tạo Web Server với Node.js
 
 1. Các lệnh thực hiện
 
-Chạy chương trình:
+Di chuyển vào thư mục Bt02:
 
 bash
 
 cd Bt02
+
+Chạy chương trình:
+
+bash
 
 node bai02.js
 
