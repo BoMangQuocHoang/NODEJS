@@ -6,7 +6,7 @@ Chạy chương trình:
 
 bash
 
-cd bai03/Bt01
+cd Bt01
 
 node bai01.js
 
