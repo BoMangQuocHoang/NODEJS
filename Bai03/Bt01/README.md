@@ -6,6 +6,7 @@ Chạy chương trình:
 
 bash
 cd bai03/Bt01
+
 node bai01.js
 
 2. Ảnh thực hiện bài tập
