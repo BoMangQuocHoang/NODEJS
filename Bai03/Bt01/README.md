@@ -2,11 +2,15 @@ BÀI 01: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
 
 1. Các lệnh thực hiện
 
-Chạy chương trình:
+Di chuyển vào thư mục Bt01:
 
 bash
 
 cd Bt01
+
+Chạy chương trình:
+
+bash
 
 node bai01.js
 
