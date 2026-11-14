@@ -15,13 +15,13 @@ bash
 node bai01.js
 
 2. Ảnh thực hiện bài tập
-Ảnh chạy chương trình
+Ảnh mã nguồn 
 
 ![Code](images/code.png)
 
 !Chạy chương trình
 
-Ảnh kết quả
+Ảnh kết quả Terminal
 
 ![Result](images/ketqua.png)
 
