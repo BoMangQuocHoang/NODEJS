@@ -1,6 +1,6 @@
 # BÀI 7: XỬ LÝ THAM SỐ URL TRÊN WEB SERVER
 
-## 2. Các lệnh thực hiện
+## 1. Các lệnh thực hiện
 
 Di chuyển vào thư mục `Bt07`:
 
@@ -22,7 +22,7 @@ Các đường dẫn kiểm tra trên trình duyệt:
 
 ---
 
-## 3. Hình ảnh thực hiện
+## 2. Hình ảnh thực hiện
 
 ### Hình 1: Khởi động Web Server trên Terminal
 
@@ -56,7 +56,7 @@ Web Server trích xuất 2 tham số `a=10` và `b=20`, thực hiện ép kiểu
 
 ---
 
-## 4. Kết quả đạt được
+## 3. Kết quả đạt được
 
 - **Tạo Web Server:** Khởi tạo thành công Web Server bằng module `http` tích hợp sẵn trong Node.js, hoạt động ổn định tại cổng `3001`.
 - **Tách và phục vụ file tĩnh:** Tách riêng định dạng giao diện sang tệp `style.css` và phục vụ thông qua endpoint `/style.css`, giúp mã nguồn HTML trong `bai07.js` gọn gàng, giao diện hiển thị hiện đại với hiệu ứng card và badge.
@@ -72,7 +72,7 @@ Web Server trích xuất 2 tham số `a=10` và `b=20`, thực hiện ép kiểu
 
 ---
 
-## 5. Kết luận
+## 4. Kết luận
 
 Qua bài thực hành, em đã nắm vững các kiến thức:
 1. Cách xây dựng và quản lý vòng đời một Web Server cơ bản bằng Node.js với module `http`.
