@@ -4,9 +4,13 @@
 
 Di chuyển vào thư mục `Bt06`:
 
+bash
+
 cd Bt06
 
 Chạy chương trình:
+
+bash
 
 node bai06.js
 
