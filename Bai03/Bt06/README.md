@@ -31,7 +31,9 @@ node bai06.js
 ## 3. Kết quả
 
 Xây dựng thành công module xulyDiem.js gồm hàm tính điểm trung bình 3 môn và hàm xếp loại học tập (Giỏi từ 8, Khá từ 6.5, Trung bình từ 5, Yếu dưới 5).
+
 Xuất các hàm từ module bằng module.exports và gọi lại trong bai06.js bằng require().
+
 Khởi tạo dữ liệu cho 3 sinh viên và hiển thị đầy đủ họ tên, điểm trung bình cùng xếp loại học tập trên Terminal.
 
 ## 4. Kết luận
