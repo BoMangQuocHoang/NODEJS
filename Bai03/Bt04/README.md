@@ -1,6 +1,6 @@
 # BÀI 4: THÊM VÀ HIỂN THỊ DỮ LIỆU MONGODB
 
-1. Các lệnh thực hiện
+## 1. Các lệnh thực hiện
 
 Di chuyển vào thư mục Bt04:
 
