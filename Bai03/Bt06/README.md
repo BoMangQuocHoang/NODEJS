@@ -4,7 +4,7 @@
 
 Di chuyển vào thư mục `Bt06`:
 
-`bash`
+``bash``
 
 cd Bt06
 
