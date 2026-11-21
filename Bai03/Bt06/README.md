@@ -13,12 +13,15 @@ node bai06.js
 2. Hình ảnh thực hiện
 
 Hình 1: Code module
+
 ![Code](images/xulyDiem.png)
 
 Hình 2: Code chương trình
+
 ![Code](images/code.png)
 
 Hình 3: Kết quả chạy chương trình trên Terminal
+
 ![Code](images/ketqua.png)
 
 3. Kết quả
