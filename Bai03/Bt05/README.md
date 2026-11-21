@@ -8,19 +8,21 @@ cd Bt05
 
 Chạy chương trình:
 
+bash
+
 node bai05.js
 
 ## 2. Hình ảnh thực hiện
 
-Hình 1: Code chương trình bai05.js
+### Hình 1: Code chương trình bai05.js
 
 ![Code](images/code.png)
 
-Hình 2: Kết quả chạy chương trình trên Terminal
+### Hình 2: Kết quả chạy chương trình trên Terminal
 
 ![Terminal](images/ketqua.png)
 
-Hình 3: Kiểm tra kết quả trong MongoDB Compass
+### Hình 3: Kiểm tra kết quả trong MongoDB Compass
 
 ![MongoDB Compass](images/kqMongoDB.png)
 
