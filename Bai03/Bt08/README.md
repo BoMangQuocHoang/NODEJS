@@ -26,28 +26,6 @@ cd Bt08
 node bai08.js
 ```
 
-### Kết quả hiển thị trên Terminal:
-
-```text
-=== BÀI 8: QUẢN LÝ TẬP TIN VỚI FILE SYSTEM ===
-
-[Bước 1] Đã tạo thư mục 'data' thành công.
-[Bước 2] Đã tạo tập tin 'data/ghichu.txt' và ghi 3 dòng nội dung thành công.
-[Bước 3] Đã đổi tên tập tin 'ghichu.txt' -> 'ghichu_moi.txt' thành công bằng fs.rename().
-
-[Bước 4] Đọc nội dung tập tin 'ghichu_moi.txt' sau khi đổi tên:
--------------------- NỘI DUNG TẬP TIN --------------------
-Dòng 1: Bắt đầu học lập trình Backend với Node.js.
-Dòng 2: Module fs (File System) hỗ trợ các thao tác đọc, ghi, sửa, xóa file.
-Dòng 3: Hoàn thành bài tập số 08 quản lý tập tin an toàn và hiệu quả.
-----------------------------------------------------------
-
-[Bước 5a] Đã tạo tập tin tạm 'data/tam.txt'.
-[Bước 5b] Đã xóa tập tin 'data/tam.txt' thành công bằng fs.unlink().
-
-=== TẤT CẢ CÁC THAO TÁC FILE SYSTEM ĐÃ HOÀN THÀNH XUẤT SẮC! ===
-```
-
 ---
 
 ## 3. Hình ảnh thực hiện
