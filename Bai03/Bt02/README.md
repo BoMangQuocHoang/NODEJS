@@ -1,6 +1,6 @@
-Bài 2. Tạo Web Server với Node.js
+# Bài 2. Tạo Web Server với Node.js
 
-1. Các lệnh thực hiện
+## 1. Các lệnh thực hiện
 
 Di chuyển vào thư mục Bt02:
 
@@ -16,7 +16,7 @@ node bai02.js
 
 Sau khi chạy, Web Server hoạt động tại cổng 3000.
 
-2. Kết quả thực hiện
+## 2. Kết quả thực hiện
 
 Hình 1: Chạy Web Server
 
@@ -48,7 +48,7 @@ Truy cập một đường dẫn không tồn tại để kiểm tra mã trạng
 
 ![Code](images/404.png)
 
-3. Kết luận
+## 3. Kết luận
 
 Qua bài thực hành, em đã biết cách sử dụng module http trong Node.js để tạo Web Server, xử lý các đường dẫn truy cập và trả về mã trạng thái HTTP phù hợp.
 
