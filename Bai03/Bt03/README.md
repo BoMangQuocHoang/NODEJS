@@ -20,7 +20,7 @@ node bai03.js
 
 ![Thongtin](images/thongtin.png)
 
-### Hình 2: Code chương trình bai03.js
+### Hình 2: Code chương trình `bai03.js`
 
 ![Code](images/code.png)
 
