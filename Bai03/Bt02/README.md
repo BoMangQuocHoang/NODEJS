@@ -2,15 +2,15 @@
 
 ## 1. Các lệnh thực hiện
 
-Di chuyển vào thư mục Bt02:
+Di chuyển vào thư mục `Bt02`:
 
-bash
+``bash``
 
 cd Bt02
 
 Chạy chương trình:
 
-bash
+``bash``
 
 node bai02.js
 
@@ -18,11 +18,11 @@ Sau khi chạy, Web Server hoạt động tại cổng 3000.
 
 ## 2. Kết quả thực hiện
 
-Hình 1: Chạy Web Server
+### Hình 1: Chạy Web Server
 
 ![Terminal](images/ketqua.png)
 
-Hình 2: Trang chủ
+### Hình 2: Trang chủ
 
 Truy cập địa chỉ:
 
@@ -32,7 +32,7 @@ http://localhost:3000
 
 ![Trangchu](images/home.png)
 
-Hình 3: Trang giới thiệu
+### Hình 3: Trang giới thiệu
 
 Truy cập địa chỉ:
 
@@ -42,7 +42,7 @@ http://localhost:3000/about
 
 ![About](images/about.png)
 
-Hình 4: Kiểm tra lỗi 404
+### Hình 4: Kiểm tra lỗi 404
 
 Truy cập một đường dẫn không tồn tại để kiểm tra mã trạng thái HTTP 404.
 
