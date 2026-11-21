@@ -18,7 +18,7 @@ node bai04.js
 
 ---
 
-2. Hình ảnh thực hiện
+## 2. Hình ảnh thực hiện
 
 **Hình 1: Code chương trình `bai04.js`**
 
@@ -34,7 +34,7 @@ node bai04.js
 
 ---
 
-3. Kết quả
+## 3. Kết quả
 
 * Kết nối thành công tới MongoDB server đang chạy trên máy (`mongodb://127.0.0.1:27017`)[cite: 4, 5].
 * Sử dụng cơ sở dữ liệu `qlsinhvien` và collection `students`[cite: 1, 4].
@@ -45,7 +45,7 @@ node bai04.js
 
 ---
 
-4. Kết luận
+## 4. Kết luận
 
 Qua bài thực hành, em đã biết cách sử dụng thư viện `mongodb` trong Node.js để kết nối cơ sở dữ liệu NoSQL, thực hiện thêm dữ liệu hàng loạt bằng `insertMany()`, truy vấn dữ liệu bằng `find()` và quản lý vòng đời kết nối an toàn.
 
