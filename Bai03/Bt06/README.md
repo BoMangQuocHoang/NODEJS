@@ -10,7 +10,7 @@ cd Bt06
 
 Chạy chương trình:
 
-bash
+``bash``
 
 node bai06.js
 
