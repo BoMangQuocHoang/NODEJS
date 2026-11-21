@@ -1,0 +1,16 @@
+{
+  "name": "bt09",
+  "version": "1.0.0",
+  "description": "- Kết nối ứng dụng Node.js với cơ sở dữ liệu MongoDB (`mongodb://127.0.0.1:27017`) sử dụng database riêng biệt **`qlsinhvien_bt09`**. - Tạo và làm việc với collection `students_test`. - Thêm ít nhất 5 sinh viên mẫu với các trường thông tin: `masv`, `hoten`, `tuoi`, `diem` bằng phương thức `insertMany()`. - Sử dụng phương thức `deleteOne()` để xóa chính xác 1 bản ghi sinh viên theo điều kiện mã sinh viên (`masv`). - Sử dụng phương thức `deleteMany()` kết hợp toán tử điều kiện `$lt` để xóa đồng loạt các sinh viên có điểm số dưới 5 (`diem < 5`). - Hiển thị số lượng bản ghi đã xóa ở mỗi thao tác và truy vấn danh sách sinh viên còn lại trong collection bằng `find()`.",
+  "main": "bai09.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mongodb": "^7.9.1"
+  }
+}
