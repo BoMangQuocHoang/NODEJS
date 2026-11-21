@@ -30,15 +30,13 @@ node bai08.js
 
 ## 3. Hình ảnh thực hiện
 
-### Hình 1: Đọc và hiển thị nội dung sau khi đổi tên.
-
-![ghichu_moi](images/ghichu.png)
-
----
-
-### Hình 2: Kết quả chạy chương trình trên Terminal
+### Hình 1: Kết quả chạy chương trình trên Terminal
 
 ![Kết quả Terminal](images/ketqua08.png)
+
+### Hình 2: Đọc và hiển thị nội dung sau khi đổi tên.
+
+![ghichu_moi](images/ghichu.png)
 
 ---
 
