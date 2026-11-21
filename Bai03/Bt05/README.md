@@ -31,11 +31,17 @@ node bai05.js
 ## 3. Kết quả
 
 Kết nối thành công tới MongoDB server đang chạy trên máy (mongodb://127.0.0.1:27017).
+
 Sử dụng collection students từ cơ sở dữ liệu qlsinhvien của bài trước.
+
 Tìm kiếm thành công danh sách các sinh viên có điểm ≥7 bằng phương thức find() kết hợp toán tử truy vấn $gte.
+
 Sắp xếp kết quả trả về theo thứ tự điểm số giảm dần thành công bằng phương thức sort().
+
 Cập nhật thành công điểm của sinh viên theo mã số sinh viên (masv) cụ thể bằng phương thức updateOne() kết hợp với toán tử $set.
+
 Đọc và hiển thị lại toàn bộ thông tin danh sách sinh viên sau khi cập nhật trực tiếp lên màn hình Terminal để kiểm chứng kết quả.
+
 Đóng kết nối cơ sở dữ liệu an toàn sau khi hoàn thành.
 
 ## 4. Kết luận
