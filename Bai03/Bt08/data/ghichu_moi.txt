@@ -1,0 +1,3 @@
+Dòng 1: Bắt đầu học lập trình Backend với Node.js.
+Dòng 2: Module fs (File System) hỗ trợ các thao tác đọc, ghi, sửa, xóa file.
+Dòng 3: Hoàn thành bài tập số 08 quản lý tập tin an toàn và hiệu quả.
