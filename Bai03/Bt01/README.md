@@ -1,6 +1,6 @@
-BÀI 01: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
+# BÀI 01: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
 
-1. Các lệnh thực hiện
+## 1. Các lệnh thực hiện
 
 Di chuyển vào thư mục Bt01:
 
@@ -14,7 +14,8 @@ bash
 
 node bai01.js
 
-2. Ảnh thực hiện bài tập
+## 2. Ảnh thực hiện bài tập
+   
 Ảnh mã nguồn 
 
 ![Code](images/code.png)
@@ -27,6 +28,6 @@ node bai01.js
 
 !Kết quả
 
-3. Kết quả
+## 3. Kết quả
 
 Chương trình hiển thị danh sách sinh viên có điểm từ 5 trở lên bằng console.log().
