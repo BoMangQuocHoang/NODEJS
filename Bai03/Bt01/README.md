@@ -1,28 +1,28 @@
-# BÀI 01: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
+# BÀI 1: QUẢN LÝ THÔNG TIN SINH VIÊN BẰNG JAVASCRIPT ES6
 
 ## 1. Các lệnh thực hiện
 
-Di chuyển vào thư mục Bt01:
+Di chuyển vào thư mục `Bt01`:
 
-bash
+``bash``
 
 cd Bt01
 
 Chạy chương trình:
 
-bash
+``bash``
 
 node bai01.js
 
 ## 2. Ảnh thực hiện bài tập
    
-Ảnh mã nguồn 
+### Ảnh mã nguồn 
 
 ![Code](images/code.png)
 
 !Chạy chương trình
 
-Ảnh kết quả Terminal
+### Ảnh kết quả Terminal
 
 ![Terminal](images/ketqua.png)
 
