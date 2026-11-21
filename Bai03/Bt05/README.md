@@ -2,13 +2,15 @@
 
 ## 1. Các lệnh thực hiện
 
-Di chuyển vào thư mục Bt05:
+Di chuyển vào thư mục `Bt05`:
+
+``bash``
 
 cd Bt05
 
 Chạy chương trình:
 
-bash
+``bash``
 
 node bai05.js
 
