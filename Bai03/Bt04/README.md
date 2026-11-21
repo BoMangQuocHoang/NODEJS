@@ -2,17 +2,21 @@
 
 ## 1. Các lệnh thực hiện
 
-Di chuyển vào thư mục Bt04:
+Di chuyển vào thư mục `Bt04`:
 
-Bash
+``bash``
 
 cd Bt04
 
 Cài đặt thư viện MongoDB Driver:
 
+``bash``
+
 npm install mongodb
 
 Chạy chương trình:
+
+``bash``
 
 node bai04.js
 
